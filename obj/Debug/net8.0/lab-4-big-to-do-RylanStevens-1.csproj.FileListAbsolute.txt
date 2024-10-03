@@ -1,0 +1,15 @@
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/bin/Debug/net8.0/lab-4-big-to-do-RylanStevens-1
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/bin/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.deps.json
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/bin/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.runtimeconfig.json
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/bin/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.dll
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/bin/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.pdb
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.sourcelink.json
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.dll
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/refint/lab-4-big-to-do-RylanStevens-1.dll
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.pdb
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/lab-4-big-to-do-RylanStevens-1.genruntimeconfig.cache
+/Users/rylanstevens/programming 2024/lab-4-big-to-do-RylanStevens-1/obj/Debug/net8.0/ref/lab-4-big-to-do-RylanStevens-1.dll
